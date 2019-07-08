@@ -16,6 +16,7 @@
 		8FA417D722C32AF10035A826 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8FA417D522C32AF10035A826 /* Main.storyboard */; };
 		8FA417D922C32AF30035A826 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8FA417D822C32AF30035A826 /* Assets.xcassets */; };
 		8FA417DC22C32AF30035A826 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8FA417DA22C32AF30035A826 /* LaunchScreen.storyboard */; };
+		8FE3C61522D24D550003D815 /* SwipeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE3C61422D24D550003D815 /* SwipeTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		8FA417D822C32AF30035A826 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8FA417DB22C32AF30035A826 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8FA417DD22C32AF30035A826 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8FE3C61422D24D550003D815 /* SwipeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeTableViewController.swift; sourceTree = "<group>"; };
 		ABAD1BF1467854CF46DED4C5 /* Pods_Todo_List.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Todo_List.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1C9D77FA45854E7EA70F3C9 /* Pods-Todo List.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Todo List.release.xcconfig"; path = "Target Support Files/Pods-Todo List/Pods-Todo List.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -68,6 +70,7 @@
 			children = (
 				8F7FCD7922CB4C1900FCF2DC /* CategoryViewController.swift */,
 				8FA417D322C32AF10035A826 /* TodoListViewController.swift */,
+				8FE3C61422D24D550003D815 /* SwipeTableViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -248,6 +251,7 @@
 				8F7FCD7A22CB4C1900FCF2DC /* CategoryViewController.swift in Sources */,
 				8FA417D422C32AF10035A826 /* TodoListViewController.swift in Sources */,
 				8FA417D222C32AF10035A826 /* AppDelegate.swift in Sources */,
+				8FE3C61522D24D550003D815 /* SwipeTableViewController.swift in Sources */,
 				8F3D734722CDC58A0005962C /* Category.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
