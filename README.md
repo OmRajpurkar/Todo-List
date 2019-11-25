@@ -35,3 +35,7 @@
 **Searching for an Item**
 
 <img src="https://github.com/OmRajpurkar/Todo-List/blob/master/Screenshots/8.PNG" alt="alt text" width="200" height="450">
+
+**Checking ✅ the completed tasks**
+
+<img src="https://github.com/OmRajpurkar/Todo-List/blob/master/Screenshots/7.PNG" alt="alt text" width="200" height="450">
