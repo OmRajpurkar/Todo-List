@@ -21,3 +21,9 @@
  <img src="https://github.com/OmRajpurkar/Todo-List/blob/master/Screenshots/3.PNG" alt="alt text" width="200" height="450">
 </p>
 
+**Adding Items into Category**
+
+<p float="left">
+ <img src="https://github.com/OmRajpurkar/Todo-List/blob/master/Screenshots/4.PNG" alt="alt text" width="200" height="450">
+ <img src="https://github.com/OmRajpurkar/Todo-List/blob/master/Screenshots/5.PNG" alt="alt text" width="200" height="450">
+</p>
