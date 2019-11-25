@@ -11,7 +11,8 @@
 
 ## Screenshots:
 **Home Screen**
-<img src="https://github.com/OmRajpurkar/Flower-Recognition-using-CoreML/blob/master/Screenshots/1.PNG" alt="alt text" width="200" height="450">
+
+<img src="https://github.com/OmRajpurkar/Todo-List/blob/master/Screenshots/1.PNG" alt="alt text" width="200" height="450">
 
 
 <p float="left">
